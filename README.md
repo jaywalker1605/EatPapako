@@ -1,2 +1,3 @@
-# EatPapako
-Eat Papako
+# EatSenpai
+
+吃掉怕怕！
